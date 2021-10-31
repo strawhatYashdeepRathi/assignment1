@@ -1,0 +1,20 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.content{
+    display: inline-block;
+}
+.allign-h1{
+    vertical-align: middle;
+}
+.part{
+    width:49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.allign-img{
+    vertical-align: top;
+}
